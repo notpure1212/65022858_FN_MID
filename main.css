@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-in {
+    position: absolute;
+    width: 140px;
+    height: 49px;
+    left: 675px;
+    top: 78px;
+}
+
+.Email {
+    color: #A7A7A7;
+    width: 162px;
+    height:15px;
+    left:585px;
+    top:222px;
+    right:253px;
+    position: absolute;
+}
+
+.Password {
+    color:#A7A7A7;
+    width: 162px;
+    height: 15px;
+    left: 585px;
+    top: 266px;
+    right: 253px;
+    position: absolute;
+}
+
+.nav {
+    position: absolute;
+    width: 1440px;
+    height: 87px;
+    background: #7E4D9F;
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    text-decoration: none;
+    list-style: none;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 100px;
+    font-size:larger;
+    font-size: 30px;
+    font-weight: 400;
+    text-decoration: none;
+    list-style: none;
+}
+
+.info-box {
+    position: absolute;
+    width: 1083px;
+    height: 324px;
+    left: 178px;
+    top: 211px;
+    background: #D3D3D3;
+    border-radius: 15px;
+}
+
+.miggo {
+    width: 168px;
+    height: 168px;
+    top: 51;
+    left: 53px;
+}
+
+.pp {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.hewhew {
+    display: flex;
+    flex-direction: row;
+    width: 253px;
+    height: 45px;
+    left: 800px;
+    top: 27px;
+    position: absolute;
+    background: white;
+    margin: 5px;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hella {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 910px;
+    height: 59px;
+    left: 266px;
+    top: 659px;
+    position: absolute;
+}
